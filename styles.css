@@ -50,3 +50,17 @@ body {
     padding: 1rem .8rem;
   }
   
+
+/* Sobre a empresa */
+
+#about-area {
+  background-color: #F9F9F9;
+}
+
+.main-title {
+  color: #444;
+  margin: 0 0 65px 0;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 40px;
+}
